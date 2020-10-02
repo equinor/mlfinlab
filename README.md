@@ -14,6 +14,9 @@
 [![Downloads](https://img.shields.io/pypi/dm/mlfinlab.svg)]((https://pypi.org/project/mlfinlab/))
 [![Python](https://img.shields.io/pypi/pyversions/mlfinlab.svg)]((https://pypi.org/project/mlfinlab/))
 
+
+*MLFinLab repo containing code from before they restricted the license and purged/deleted the repo commit history. This repo contains the source code from April 4th, 2020 under the BSD 3 license.*
+
 MLFinLab is an open source package based on the research of Dr Marcos Lopez de Prado ([QuantResearch.org](http://www.quantresearch.org/)) in his new book
 Advances in Financial Machine Learning as well as various implementations from the [Journal of Financial Data Science](https://jfds.pm-research.com/). This implementation started out as a spring board for a research project in the [Masters in Financial Engineering programme at WorldQuant University](https://wqu.org/) and has grown into a mini research group called [Hudson and Thames Quantitative Research](https://hudsonthames.org/) (not affiliated with the university).
 
